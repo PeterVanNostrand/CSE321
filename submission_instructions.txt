@@ -1,0 +1,9 @@
+timberlake.cse.buffalo.edu
+user
+password
+port 22
+
+ssh ubit@timerlake.cse.buffalo.edu
+password
+navigate to file
+submit_cse321 filename
